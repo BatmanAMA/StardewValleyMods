@@ -1,12 +1,7 @@
 ﻿{
    "Name": "CampfireCooking",
    "Author": "Kabigon",
-  "Version": {
-    "MajorVersion": 1,
-    "MinorVersion": 1,
-    "PatchVersion": 1,
-    "Build": "beta"
-  },
+  "Version": "1.1.2-beta",
    "Description": "Allow Campfire Cooking",
    "UniqueID": "Kabigon.CampfireCooking",
    "EntryDll": "CampfireCooking.dll",
